@@ -3,4 +3,5 @@ DER WOLF, DAS LAMM...
 AUF DER GRÜNEN WIESE.
 
 HURZ!!!
-HURZ!!!test
+HURZ!!!
+SCHURZ!!!
